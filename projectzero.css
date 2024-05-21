@@ -1,0 +1,77 @@
+.one{
+    margin-left: 21px;
+}
+header{
+    margin-left: 40px;
+    
+}
+h1{
+    position: absolute;
+    top:50px ;
+    left: 1530px;
+}
+h2{
+    position: absolute;
+    top:300px ;
+    left:40px ;
+}
+.two{
+    position: absolute;
+    top: 350px;
+    left: 40px;
+}
+h3{
+    position: absolute;
+    top: 400px;
+    left: 40px;
+}
+.container{
+    background-color: gray;
+    position: absolute;
+    left: 30px;
+    width: 1800px;
+    height: 250px;
+}
+.three{
+    background-color: aliceblue;
+    width: 1750px;
+    height: 150px;
+    position: absolute;
+    left: 30px;
+}
+.tee{
+    position: absolute;
+    left: 50px;
+    top: 80px;
+}
+.container1{
+    position: absolute;
+    top: 750px;
+    text-align: center;
+    left: 700px;
+    color: aqua;
+    font-size: 50px;
+}
+.four{
+    position: absolute;
+    top: 1000px;
+    text-align: center;
+    left: 950px;
+    font-size: 40px;
+}
+.five{
+    position: absolute;
+    top: 1080px;
+    left: 840px;
+    text-align: center;
+}
+.container2{
+    position: absolute;
+    top: 1150px;
+    background-color: lightblue;
+    width: 370px;
+    height: 150px;
+    text-align: center;
+    left: 800px;
+    padding: 30px;
+}
