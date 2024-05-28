@@ -64,6 +64,7 @@ h3{
     top: 1080px;
     left: 840px;
     text-align: center;
+    font-size: 20px;
 }
 .container2{
     position: absolute;
@@ -74,4 +75,29 @@ h3{
     text-align: center;
     left: 800px;
     padding: 30px;
+}
+.six{
+    position: absolute;
+    top: 1380px;
+    left: 940px;
+    text-align: center;
+    font-size: 35px;
+}
+.seven{
+    position: absolute;
+    top: 1480px;
+    left: 840px;
+    text-align: center;
+    font-size: 20px;
+}
+.eight{
+    position: absolute;
+    top: 1580px;
+    left: 940px;
+    text-align: center;
+    padding: 15px;
+}
+.nine{
+    background-color: gray;
+
 }
